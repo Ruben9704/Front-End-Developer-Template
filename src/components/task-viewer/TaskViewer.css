@@ -1,0 +1,13 @@
+.task-viewer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 50px;
+    width: auto;
+    height: 700px;
+    margin: 70px;
+    padding: 80px;
+    gap: 40px;
+    background-color: #dedeea;
+    overflow-y: scroll;
+}

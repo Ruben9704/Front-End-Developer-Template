@@ -1,0 +1,21 @@
+.app-container {
+  background-color: #f3f3fb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-content h3 {
+  margin-left: 70px;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 31px;
+}
+
